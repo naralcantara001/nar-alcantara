@@ -266,16 +266,10 @@ export default function Home() {
                 <Image src={illustration} alt='image' className='rounded'/>
               </div>
               <div className=' flex flex-col justify-center items-start xl:ml-5 mt-4 xl:mt-0'>
-                <h3 className='font-bold text-2xl md:text-3xl text-[#B87333]'>Bulletin Board (2022)</h3>
+                <h3 className='font-bold text-2xl md:text-3xl text-[#B87333]'>Portfolio - Narcy Alcantara (2022)</h3>
                 <p className='font-bold text-lg md:text-2xl mt-1 text-gray-600 dark:text-[#DFCFB7]'>Personal page</p>     
                 <p className='font-bold mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>HTML • CSS • Javascript • Reactjs • TailwindCSS</p>
-                <a href='#'>
-                  <button className='flex flex-row text-white group hover:text-[#B87333] hover:bg-[#FCF7ED] hover:border-[#B87333] border-2  border-[#B87333] bg-[#B87333] font-semibold rounded px-5 py-[10px] mt-6'>           
-                    <span className='mr-4'>view website</span>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" className='fill-white  group-hover:fill-[#B87333] w-[30px] animate-bounce'><path d="m13 3 3.293 3.293-7 7 1.414 1.414 7-7L21 11V3z"></path><path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"></path></svg>
-                  </button>
-                </a>
-                <a href='https://github.com/naralcantara001/bulletin-board'>
+                <a target="_blank" href='https://github.com/naralcantara001/bulletin-board'>
                   <button className='flex flex-row text-white group hover:text-[#B87333] hover:bg-[#FCF7ED] hover:border-[#B87333] border-2  border-[#B87333] bg-[#B87333] font-semibold rounded px-5 py-[10px] mt-6'>           
                     <span className='mr-4'>view github</span>
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" className='fill-white  group-hover:fill-[#B87333] w-[30px] animate-bounce'><path d="m13 3 3.293 3.293-7 7 1.414 1.414 7-7L21 11V3z"></path><path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"></path></svg>

@@ -67,6 +67,26 @@ export default function Home() {
         </div>
       </div>
     </section>
+
+          {/* melting */}
+          <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 325 100"><rect width="100%" height="100%" fill="hsl(0, 0%, 100%)"></rect><g fill="hsl(30, 100%, 40%)">
+    <rect width="100%" height="40" fill="hsl(30, 100%, 40%)"></rect>
+
+    <rect x="0" width="7.69%" height="94.37315614755272" rx="15"></rect>
+      <rect x="50" width="7.69%" height="81.29608255157426" rx="15"></rect>
+      <rect x="100" width="7.69%" height="73.83089949033989" rx="15"></rect>
+      <rect x="150" width="7.69%" height="93.54740161315121" rx="15"></rect>
+      <rect x="200" width="7.69%" height="79.32744790509024" rx="15"></rect>
+      <rect x="250" width="7.69%" height="74.47925792956535" rx="15"></rect>
+      <rect x="300" width="7.69%" height="65.13425514466068" rx="15"></rect>
+  </g><g fill="hsl(0, 0%, 100%)">
+    <rect x="25" y="13.997878381263108" width="7.69%" height="60" rx="15"></rect>
+      <rect x="75" y="13.248507640346205" width="7.69%" height="60" rx="15"></rect>
+      <rect x="125" y="4.443367748243183" width="7.69%" height="60" rx="15"></rect>
+      <rect x="175" y="5.126402215942305" width="7.69%" height="60" rx="15"></rect>
+      <rect x="225" y="2.044690481153736" width="7.69%" height="60" rx="15"></rect>
+      <rect x="275" y="9.092860188024103" width="7.69%" height="60" rx="15"></rect>
+  </g></svg>
     
     <section class='h-auto xl:h-screen flex flex-col items-center pt-36 dark:bg-[#645452] bg-[#FCF7ED]'>
       <h3 className='text-[#B87333] font-bold text-3xl sm:text-4xl'>What I do</h3>

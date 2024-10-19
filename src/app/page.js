@@ -74,9 +74,9 @@ export default function Home() {
         
         <div className='border-2 rounded p-1'>
           <div className='flex flex-col content-center justify-center items-center p-10'>
-           <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" className='animate-bounce fill-[#B87333] w-[50px]'><path d="m7.375 16.781 1.25-1.562L4.601 12l4.024-3.219-1.25-1.562-5 4a1 1 0 0 0 0 1.562l5 4zm9.25-9.562-1.25 1.562L19.399 12l-4.024 3.219 1.25 1.562 5-4a1 1 0 0 0 0-1.562l-5-4zm-1.649-4.003-4 18-1.953-.434 4-18z"></path></svg>
+           <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" className='animate-bounce fill-[#FCF7ED] w-[50px]'><path d="m7.375 16.781 1.25-1.562L4.601 12l4.024-3.219-1.25-1.562-5 4a1 1 0 0 0 0 1.562l5 4zm9.25-9.562-1.25 1.562L19.399 12l-4.024 3.219 1.25 1.562 5-4a1 1 0 0 0 0-1.562l-5-4zm-1.649-4.003-4 18-1.953-.434 4-18z"></path></svg>
             <p className='font-bold text-xl mt-1 text-gray-600 dark:text-[#DFCFB7]'>Responsive</p>
-            <ul className='list-disc mt-3 text-gray-400 font-bold dark:text-[#DFCFB7]'>
+            <ul className='list-disc mt-3 text-[#FCF7ED] font-bold dark:text-[#DFCFB7]'>
               <li>Optimizing UI responsiveness</li>
               <li>Performance for web and mobile view.</li>
             </ul>

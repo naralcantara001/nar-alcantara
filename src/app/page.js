@@ -266,9 +266,9 @@ export default function Home() {
                 <Image src={illustration} alt='image' className='rounded'/>
               </div>
               <div className=' flex flex-col justify-center items-start xl:ml-5 mt-4 xl:mt-0'>
-                <h3 className='font-bold text-2xl md:text-3xl text-[#B87333]'>Portfolio - Narcy Alcantara (2022)</h3>
+                <h3 className='font-bold text-2xl md:text-3xl text-[#B87333]'>Bulletin Board (2022)</h3>
                 <p className='font-bold text-lg md:text-2xl mt-1 text-gray-600 dark:text-[#DFCFB7]'>Personal page</p>     
-                <p className='mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>HTML • CSS • Javascript • Reactjs • TailwindCSS</p>
+                <p className='font-bold mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>HTML • CSS • Javascript • Reactjs • TailwindCSS</p>
                 <a href='#'>
                   <button className='flex flex-row text-white group hover:text-[#B87333] hover:bg-[#FCF7ED] hover:border-[#B87333] border-2  border-[#B87333] bg-[#B87333] font-semibold rounded px-5 py-[10px] mt-6'>           
                     <span className='mr-4'>view website</span>
@@ -288,7 +288,7 @@ export default function Home() {
               <div className=' flex flex-col justify-center items-start xl:ml-5 mt-4 xl:mt-0'>
                 <h3 className='font-bold text-2xl md:text-3xl text-[#B87333]'>Bulletin Board (2022)</h3>
                 <p className='font-bold text-lg md:text-2xl mt-1 text-gray-600 dark:text-[#DFCFB7]'>Personal project</p>        
-                <p className='mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>Reactjs • CRUD • SASS</p>
+                <p className='font-bold mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>Reactjs • CRUD • SASS</p>
                 <a href='#'>
                   <button className='flex flex-row text-white group hover:text-[#B87333] hover:bg-[#FCF7ED] hover:border-[#B87333] border-2  border-[#B87333] bg-[#B87333] font-semibold rounded px-5 py-[10px] mt-6'>           
                     <span className='mr-4'>view website</span>
@@ -308,7 +308,7 @@ export default function Home() {
               <div className=' flex flex-col justify-center items-start xl:ml-5 mt-4 xl:mt-0'>
                 <h3 className='font-bold text-2xl md:text-3xl text-[#B87333]'>Meme Generator (2022)</h3>
                 <p className='font-bold text-lg md:text-2xl mt-1 text-gray-600 dark:text-[#DFCFB7]'>Project course by Scrimba 💜</p>        
-                <p className='mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>Reactjs • SASS • API</p>
+                <p className='font-bold mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>Reactjs • SASS • API</p>
                 <a href='#'>
                   <button className='flex flex-row text-white group hover:text-[#B87333] hover:bg-[#FCF7ED] hover:border-[#B87333] border-2  border-[#B87333] bg-[#B87333] font-semibold rounded px-5 py-[10px] mt-6'>           
                     <span className='mr-4'>view website</span>
@@ -328,7 +328,7 @@ export default function Home() {
               <div className=' flex flex-col justify-center items-start xl:ml-5 mt-4 xl:mt-0'>
                 <h3 className='font-bold text-2xl md:text-3xl text-[#B87333]'>Airbnb landing page (2022)</h3>
                 <p className='font-bold text-lg md:text-2xl mt-1 text-gray-600 dark:text-[#DFCFB7]'>Project course by Scrimba 💜</p>        
-                <p className='mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>Reactjs • SASS • API</p>
+                <p className='font-bold mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>Reactjs • SASS • API</p>
                 <a href='#'>
                   <button className='flex flex-row text-white group hover:text-[#B87333] hover:bg-[#FCF7ED] hover:border-[#B87333] border-2  border-[#B87333] bg-[#B87333] font-semibold rounded px-5 py-[10px] mt-6'>           
                     <span className='mr-4'>view website</span>
@@ -348,7 +348,7 @@ export default function Home() {
               <div className=' flex flex-col justify-center items-start xl:ml-5 mt-4 xl:mt-0'>
                 <h3 className='font-bold text-2xl md:text-3xl text-[#B87333]'>Movie Time API (2021)</h3>
                 <p className='font-bold text-lg md:text-2xl mt-1 text-gray-600 dark:text-[#DFCFB7]'>Personal project</p>        
-                <p className='mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>HTML • CSS • Javascript • API</p>
+                <p className='font-bold mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>HTML • CSS • Javascript • API</p>
                 <a href='#'>
                   <button className='flex flex-row text-white group hover:text-[#B87333] hover:bg-[#FCF7ED] hover:border-[#B87333] border-2  border-[#B87333] bg-[#B87333] font-semibold rounded px-5 py-[10px] mt-6'>           
                     <span className='mr-4'>view website</span>
@@ -368,7 +368,7 @@ export default function Home() {
               <div className=' flex flex-col justify-center items-start xl:ml-5 mt-4 xl:mt-0'>
                 <h3 className='font-bold text-2xl md:text-3xl text-[#B87333]'>Leno Furniture landing page (2021)</h3>
                 <p className='font-bold text-lg md:text-2xl mt-1 text-gray-600 dark:text-[#DFCFB7]'>Personal project</p>        
-                <p className='mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>HTML • CSS • Javascript</p>
+                <p className='font-bold mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>HTML • CSS • Javascript</p>
                 <a href='#'>
                   <button className='flex flex-row text-white group hover:text-[#B87333] hover:bg-[#FCF7ED] hover:border-[#B87333] border-2  border-[#B87333] bg-[#B87333] font-semibold rounded px-5 py-[10px] mt-6'>           
                     <span className='mr-4'>view website</span>
@@ -388,7 +388,7 @@ export default function Home() {
               <div className=' flex flex-col justify-center items-start xl:ml-5 mt-4 xl:mt-0'>
                 <h3 className='font-bold text-2xl md:text-3xl text-[#B87333]'>Barangay Toclong 1B Web (2021)</h3>
                 <p className='font-bold text-lg md:text-2xl mt-1 text-gray-600 dark:text-[#DFCFB7]'>Main Programmer - Internship</p>        
-                <p className='mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>HTML • CSS • Javascript</p>
+                <p className='font-bold mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>HTML • CSS • Javascript</p>
                 <a href='#'>
                   <button className='flex flex-row text-white group hover:text-[#B87333] hover:bg-[#FCF7ED] hover:border-[#B87333] border-2  border-[#B87333] bg-[#B87333] font-semibold rounded px-5 py-[10px] mt-6'>           
                     <span className='mr-4'>view website</span>

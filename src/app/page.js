@@ -76,7 +76,7 @@ export default function Home() {
           <div className='flex flex-col content-center justify-center items-center p-10'>
            <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" className='animate-bounce fill-[#B87333] w-[50px]'><path d="m7.375 16.781 1.25-1.562L4.601 12l4.024-3.219-1.25-1.562-5 4a1 1 0 0 0 0 1.562l5 4zm9.25-9.562-1.25 1.562L19.399 12l-4.024 3.219 1.25 1.562 5-4a1 1 0 0 0 0-1.562l-5-4zm-1.649-4.003-4 18-1.953-.434 4-18z"></path></svg>
             <p className='font-bold text-xl mt-1 text-gray-600 dark:text-[#DFCFB7]'>Responsive</p>
-            <ul className='list-disc mt-3 text-[#DFCFB7] font-bold dark:text-[#DFCFB7]'>
+            <ul className='list-disc mt-3 text-gray-400 font-bold dark:text-[#DFCFB7]'>
               <li>Optimizing UI responsiveness</li>
               <li>Performance for web and mobile view.</li>
             </ul>
@@ -87,7 +87,7 @@ export default function Home() {
           <div className='flex flex-col content-center justify-center items-center p-10'>
           <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" className='animate-bounce fill-[#B87333] w-[50px]'><path d="M20.978 13.21a1 1 0 0 0-.396-1.024l-14-10a.999.999 0 0 0-1.575.931l2 17a1 1 0 0 0 1.767.516l3.612-4.416 3.377 5.46 1.701-1.052-3.357-5.428 6.089-1.218a.995.995 0 0 0 .782-.769zm-8.674.31a1 1 0 0 0-.578.347l-3.008 3.677L7.257 5.127l10.283 7.345-5.236 1.048z"></path></svg>
             <p className='font-bold text-xl mt-1 text-gray-600 dark:text-[#DFCFB7] text-center'>UI Development</p>
-            <ul className='list-disc mt-3 text-[#DFCFB7] font-bold dark:text-[#DFCFB7]'>
+            <ul className='list-disc mt-3 text-gray-400 font-bold dark:text-[#DFCFB7]'>
               <li>Creates web pages from scratch</li>
               <li>Translate mockups and concepts into actual working products taking into UX/UI</li>
             </ul>
@@ -98,7 +98,7 @@ export default function Home() {
           <div className='flex flex-col content-center justify-center items-center p-10'>
           <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" className='animate-bounce fill-[#B87333] w-[50px]'><path d="M7.08 11.25A4.84 4.84 0 0 1 8 9.05L4.43 5.49A9.88 9.88 0 0 0 2 11.25zM9.05 8a4.84 4.84 0 0 1 2.2-.91V2a9.88 9.88 0 0 0-5.76 2.43zm3.7-6v5A4.84 4.84 0 0 1 15 8l3.56-3.56A9.88 9.88 0 0 0 12.75 2zM8 15a4.84 4.84 0 0 1-.91-2.2H2a9.88 9.88 0 0 0 2.39 5.76zm3.25 1.92a4.84 4.84 0 0 1-2.2-.92l-3.56 3.57A9.88 9.88 0 0 0 11.25 22zM16 9.05a4.84 4.84 0 0 1 .91 2.2h5a9.88 9.88 0 0 0-2.39-5.76zM15 16a4.84 4.84 0 0 1-2.2.91v5a9.88 9.88 0 0 0 5.76-2.39zm1.92-3.25A4.84 4.84 0 0 1 16 15l3.56 3.56A9.88 9.88 0 0 0 22 12.75z"></path></svg>
             <p className='font-bold text-xl mt-1 text-gray-600 dark:text-[#DFCFB7] text-center'>UX/UI</p>
-            <ul className='list-disc mt-3 text-[#DFCFB7] font-bold dark:text-[#DFCFB7]'>
+            <ul className='list-disc mt-3 text-gray-400 font-bold dark:text-[#DFCFB7]'>
               <li>Design</li>
               <li>Hierarchy</li>
               <li>Typography</li>
@@ -112,7 +112,7 @@ export default function Home() {
           <div className='flex flex-col content-center justify-center items-center p-10'>
           <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" className='animate-bounce fill-[#B87333] w-[50px]'><path d="M19.023 16.977a35.13 35.13 0 0 1-1.367-1.384c-.372-.378-.596-.653-.596-.653l-2.8-1.337A6.962 6.962 0 0 0 16 9c0-3.859-3.14-7-7-7S2 5.141 2 9s3.14 7 7 7c1.763 0 3.37-.66 4.603-1.739l1.337 2.8s.275.224.653.596c.387.363.896.854 1.384 1.367l1.358 1.392.604.646 2.121-2.121-.646-.604c-.379-.372-.885-.866-1.391-1.36zM9 14c-2.757 0-5-2.243-5-5s2.243-5 5-5 5 2.243 5 5-2.243 5-5 5z"></path></svg>
             <p className='font-bold text-xl mt-1 text-gray-600 dark:text-[#DFCFB7]'>QA</p>
-            <ul className='list-disc mt-3 text-[#DFCFB7] font-bold dark:text-[#DFCFB7]'>
+            <ul className='list-disc mt-3 text-gray-400 font-bold dark:text-[#DFCFB7]'>
               <li>Web and Mobile testing</li>
               <li>Checking bugs and error</li>
               <li>Reporting and documenting</li>
@@ -329,9 +329,9 @@ export default function Home() {
                 <h3 className='font-bold text-2xl md:text-3xl text-[#B87333]'>Airbnb landing page (2022)</h3>
                 <p className='font-bold text-lg md:text-2xl mt-1 text-gray-600 dark:text-[#DFCFB7]'>Project course by Scrimba 💜</p>        
                 <p className='font-bold mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>Reactjs • SASS • API</p>
-                <a href='#'>
+                 <a target="_blank" href='https://github.com/naralcantara001/airbnb-clone'>
                   <button className='flex flex-row text-white group hover:text-[#B87333] hover:bg-[#FCF7ED] hover:border-[#B87333] border-2  border-[#B87333] bg-[#B87333] font-semibold rounded px-5 py-[10px] mt-6'>           
-                    <span className='mr-4'>view website</span>
+                    <span className='mr-4'>view github</span>
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" className='fill-white  group-hover:fill-[#B87333] w-[30px] animate-bounce'><path d="m13 3 3.293 3.293-7 7 1.414 1.414 7-7L21 11V3z"></path><path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"></path></svg>
                   </button>
                 </a>
@@ -349,9 +349,9 @@ export default function Home() {
                 <h3 className='font-bold text-2xl md:text-3xl text-[#B87333]'>Movie Time API (2021)</h3>
                 <p className='font-bold text-lg md:text-2xl mt-1 text-gray-600 dark:text-[#DFCFB7]'>Personal project</p>        
                 <p className='font-bold mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>HTML • CSS • Javascript • API</p>
-                <a href='#'>
+                <a target="_blank" href='https://github.com/naralcantara001/movietime-web.github.io'>
                   <button className='flex flex-row text-white group hover:text-[#B87333] hover:bg-[#FCF7ED] hover:border-[#B87333] border-2  border-[#B87333] bg-[#B87333] font-semibold rounded px-5 py-[10px] mt-6'>           
-                    <span className='mr-4'>view website</span>
+                    <span className='mr-4'>view github</span>
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" className='fill-white  group-hover:fill-[#B87333] w-[30px] animate-bounce'><path d="m13 3 3.293 3.293-7 7 1.414 1.414 7-7L21 11V3z"></path><path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"></path></svg>
                   </button>
                 </a>
@@ -369,9 +369,9 @@ export default function Home() {
                 <h3 className='font-bold text-2xl md:text-3xl text-[#B87333]'>Leno Furniture landing page (2021)</h3>
                 <p className='font-bold text-lg md:text-2xl mt-1 text-gray-600 dark:text-[#DFCFB7]'>Personal project</p>        
                 <p className='font-bold mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>HTML • CSS • Javascript</p>
-                <a href='#'>
+                <a target="_blank" href='lenofurniture-web.github.io'>
                   <button className='flex flex-row text-white group hover:text-[#B87333] hover:bg-[#FCF7ED] hover:border-[#B87333] border-2  border-[#B87333] bg-[#B87333] font-semibold rounded px-5 py-[10px] mt-6'>           
-                    <span className='mr-4'>view website</span>
+                    <span className='mr-4'>view github</span>
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" className='fill-white  group-hover:fill-[#B87333] w-[30px] animate-bounce'><path d="m13 3 3.293 3.293-7 7 1.414 1.414 7-7L21 11V3z"></path><path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"></path></svg>
                   </button>
                 </a>
@@ -389,9 +389,9 @@ export default function Home() {
                 <h3 className='font-bold text-2xl md:text-3xl text-[#B87333]'>Barangay Toclong 1B Web (2021)</h3>
                 <p className='font-bold text-lg md:text-2xl mt-1 text-gray-600 dark:text-[#DFCFB7]'>Main Programmer - Internship</p>        
                 <p className='font-bold mt-4 md:mt-5 text-sm text-gray-400 dark:text-[#DFCFB7]'>HTML • CSS • Javascript</p>
-                <a href='#'>
+                <a target="_blank" href='https://github.com/naralcantara001/barangaytoclong1b-web.github.io'>
                   <button className='flex flex-row text-white group hover:text-[#B87333] hover:bg-[#FCF7ED] hover:border-[#B87333] border-2  border-[#B87333] bg-[#B87333] font-semibold rounded px-5 py-[10px] mt-6'>           
-                    <span className='mr-4'>view website</span>
+                    <span className='mr-4'>view github</span>
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" className='fill-white  group-hover:fill-[#B87333] w-[30px] animate-bounce'><path d="m13 3 3.293 3.293-7 7 1.414 1.414 7-7L21 11V3z"></path><path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"></path></svg>
                   </button>
                 </a>

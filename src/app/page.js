@@ -433,7 +433,7 @@ export default function Home() {
 
 
     <footer className=' bg-gray-100 dark:bg-slate-800 dark:text-[#DFCFB7]'>
-      <div className='container mx-auto text-center py-8 flex flex-col sm:flex-row items-center justify-between'>
+      <div className='container mx-auto text-center px-6 py-8 flex flex-col sm:flex-row items-center justify-between'>
       <p>© portfolio - narcy alcantara {new Date().getFullYear()}</p>
       <div class="flex sm:items-center mt-5 sm:mt-0">
           <a href='https://github.com/naralcantara001' className='cursor-pointer'>
